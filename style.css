@@ -1,0 +1,18 @@
+.bg-seafoam {
+    background-color: #D1FDFB;
+}
+
+.text-raspberry {
+    color: #FF006A;
+}
+
+@font-face {
+    font-family: 'Gotham-Book';
+    src: url('./fonts/Gotham-Book.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-gotham {
+    font-family: 'Gotham-Book', sans-serif;
+}
